@@ -1,3 +1,5 @@
+#Had Claude help walk through hw and help with getting ideas on syntax for models. 
+
 # python imports
 import os
 from tqdm import tqdm

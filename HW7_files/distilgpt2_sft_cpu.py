@@ -101,7 +101,7 @@ def train_args() -> TrainingArguments:
 
 def get_params() -> Dict:
     """
-    STUDENT TODO: Return generation hyperparameters.
+    STUDENT: Return generation hyperparameters.
 
     Purpose:
     - Control diversity and length of generated text.
@@ -191,7 +191,7 @@ def generate_cpu(out_file="generated_distilgpt.txt"):
     2) Get generation params from get_params().
     3) For each prompt in PROMPTS, produce 3 samples and write them to file.
 
-    STUDENT TODO: implement the params call and the for-loops that write outputs.
+    STUDENT: implement the params call and the for-loops that write outputs.
 
     Pseudo code:
     - params = get_params()

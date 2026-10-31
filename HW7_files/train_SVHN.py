@@ -40,6 +40,7 @@ def build_train_transform(augmentation="none"):
         transform_list.append(
             transforms.ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1)
         )
+    transform_list.append(transforms.RandomAffine(degrees=0, translate=(0.1, 0.1)))
     transform_list.append(transforms.Normalize(mean=SVHN_MEAN, std=SVHN_STD))
     return transforms.Compose(transform_list)
 
