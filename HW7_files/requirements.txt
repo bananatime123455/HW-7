@@ -1,0 +1,12 @@
+# Install CPU PyTorch first using the handout's Section 3.2 command.
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+scipy==1.14.1
+tqdm==4.67.1
+transformers==4.46.3
+datasets==3.1.0
+accelerate==1.1.1
+tiktoken==0.8.0
+# Newer PyArrow builds require NumPy 2; retain NumPy 1 compatibility.
+pyarrow==18.1.0

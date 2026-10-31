@@ -1,0 +1,45 @@
+=== Prompt 0 (Sample 0) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+How do you get used to seeing him on the street while playing basketball in New York City? What kind of influences have it been over time with his career, or has that influence influenced any type ( role model ) since then. For many years after being drafted by Houston Rockets fans when they were young, there was no other major NBA player named before them ; just a few more players who went out
+
+=== Prompt 0 (Sample 1) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+" I know that because we all knew how to play basketball – there was a guy who said 'Oh man, you got the ball!' And then when someone asked me if they could put it on my back in front of their head, which would be awesome. So yeah, Mike had his name out loud. He never called us ; even though every single time one came up with our names (
+
+=== Prompt 0 (Sample 2) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+He was born on May 12, 1961 in the Los Angeles suburb of East Hollywood, California. His father played basketball at a club near his hometown where they attended. The brothers grew up playing with each other : " @-@ player (s ) were friends who had come from around town to play football together – but did not know how many years later that would be ; their mother died shortly after
+
+=== Prompt 1 (Sample 0) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+According to the historian and archaeologist Joseph W. DeWitt, there is no evidence that these gods were worshipped by anyone else. In fact, they probably had a higher degree of worship than any other god in Egypt except for King Elites ( Eros ) or Chaimodorus's Kedarni : " Egyptians have been described as having much veneration with regard to their divine
+
+=== Prompt 1 (Sample 1) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+According to the ancient Greek historian Apollonus, these gods were "a kind of a beast's head that was larger than any other person. In some cases they resembled more or less animallike creatures ( such as those found in Egypt ) and with higher features like horns ; for example, there is evidence suggesting an eagle had been made from feathers on its back : this myth has even become
+
+=== Prompt 1 (Sample 2) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+I was born in the Nile Delta, about 6 km ( 8 mi ) south of Cairo and a little later on to another part of Egypt. The Egyptians were known as "'@-@ names for all these gods that we know today." They came from ancient times ; they used it frequently by priests or other people who lived near their ancestral home countries where there is no religious tradition except funerals
+
+=== Prompt 2 (Sample 0) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The first line is's reference to the “ @-@, or as a result of its influence upon global warming. In all this context, it could be interpreted in terms of an individual event (e =g., El Niño ) that may have been caused by some combination of other factors which are responsible for rising temperatures ; such events can occur with different degrees of precipitation compared to those occurring
+
+=== Prompt 2 (Sample 1) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The first one relates to the history of Mount Everest, a monument in central India that was built by Sir James Madison. In addition : " Here is an important example from which I have long been able to draw parallels between what happened at Mt Gox's peak – when it occurred ; where there were no large rocks or cliffs around but small boulders with narrow sides for climbing ( @-@
+
+=== Prompt 2 (Sample 2) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The last two are from the text "Tectonics of India - Tracton = East Asia & North Africa @-@ subduction into Indian Ocean. As mentioned above, these three occur in combination with a single point to which they can be found along their way ('southeast Asian route ) : at least one is made up of several large ice sheets connected by this interplay between north
+
