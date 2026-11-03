@@ -230,7 +230,7 @@ def generate_cpu(out_file="generated_distilgpt.txt"):
                 f.write(f"=== Prompt {i} (Sample {j}) ===\n")
                 f.write(f"Prompt: {prompt}\n")
                 f.write("=== Generation ===\n")
-                f.write(result.strip() + "\n\n")
+                f.write(result + "\n\n")
 
 if __name__ == "__main__":
     """
